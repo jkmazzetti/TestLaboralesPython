@@ -19,6 +19,7 @@ por lo que va a arrojar error fuera de indicie.py
 Explicacion del programa:
 Toma dos listas, suma sus elementos y los agrega a una tercera lista.
 
+programa reparado:
 """
 
 lista_a=[1,1,1,2]

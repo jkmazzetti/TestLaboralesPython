@@ -9,11 +9,6 @@ def contador_de_elementos(una_lista):
         else:
             mi_dict.update({elemento:mi_dict.get(elemento)+1})
     return mi_dict
-
-
-
-
-
-
+    
 lista=[1,1,1,2,5,4,8,8,7,5,0,-1]
 print(contador_de_elementos(lista))
