@@ -1,5 +1,4 @@
-"""Dada la lista=[1,1,1,2,5,4,8,8,7,5,0,-1] contabilizar cuantas veces se repite cada
-elemento."""
+"""Dada la lista=[1,1,1,2,5,4,8,8,7,5,0,-1] contabilizar cuantas veces se repite cada elemento."""
 
 def contador_de_elementos(una_lista):
     mi_dict=dict()
